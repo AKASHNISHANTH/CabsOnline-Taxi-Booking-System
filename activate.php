@@ -36,4 +36,7 @@ $key = $_GET['key'];
 mysqli_close($DBConnect); 
 
 ?>
+#Testing
+#Testing
+#Testing
 
